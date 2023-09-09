@@ -1,3 +1,3 @@
-#**TEST**
+#TEST
 
-**PANDA_SYMPH**
+PANDA_SYMPH!
